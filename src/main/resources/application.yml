@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      username: admin
+      password: admin
+      database: test
+      port: 27017
+      host: 127.0.0.1
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password:
+    timeout: 5000
